@@ -1,0 +1,9 @@
+Dir GERBER: with "EQ6 gerber.zip" for JCLPCB 
+
+Dir CAO Panel: "111b facade EQ6.DXF" for laser cut métal or Acrilyc 3mm
+
+Dir doc: some photos, list of composants and notice (in future).
+
+Dir Source:  	DipTrace Schematic and PCB
+		CAO solidWorks2017
+
